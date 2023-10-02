@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Andreo Acosta"
+    given-names: "Andrés Alberto"
+    orcid: "https://orcid.org/0000-0002-5654-5187"
+title: "andriandreo/pyPPS: pyPPS v1.0-beta"
+doi: 10.5281/zenodo.8398410
+version: v1.0-beta
+date-released: 2023-10-02
